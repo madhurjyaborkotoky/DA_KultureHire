@@ -1,0 +1,19 @@
+What to do ?
+
+What to do for this milestone ?
+In this section, you are going to create functional dashboards on 3 different variables.
+
+
+What is a variable ?
+A variable in a dataset represents a trait or attribute that varies among individuals or entities. For the career aspirations dataset of Gen Z, 
+variables encompass characteristics such as job preferences, Career Aspiration Factor, Learning Environment, and geographic location, etc..
+
+
+Which variables to consider ?
+For this milestone, you are supposed to create three functional dashboards based on the given 3 variables.
+
+Learning Aspirations,
+Manager Aspirations,
+Mission Aspirations
+
+In the next step, we will explain the three variables mentioned above.
