@@ -1,0 +1,15 @@
+What to do ?
+
+Use MYSQL and MYSQL workbench to analyze data
+Use the link given below to install MYSQL workbench community. NOT the web community but full community installer.
+
+
+(Usually the one with the larger file size.)
+https://dev.mysql.com/downloads/installer/
+
+Import data to your database
+Use the cleaned and standardized data to your database (create a new DB in your computer/laptop)
+
+
+Perform EDA and hypothesis testing
+Analyze data for high level information for the questions in the next steps.
