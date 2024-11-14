@@ -1,4 +1,4 @@
-# DA_KultureHire
+# DA_KultureHire_internship
 ___
 
 -Learn and practice data analytics with our job simulation program and become job ready. 
