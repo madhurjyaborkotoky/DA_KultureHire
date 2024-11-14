@@ -1,0 +1,9 @@
+What to do in this milestone?
+
+Now that you have successfully collected, cleaned and standardized the data, it's time to utilize it for your analysis.
+
+Use the GenZ dataset submitted in the previous milestone for conducting data analysis.
+
+Let's analyze the data and answer some business questions.
+
+You will find the business questions in the next step.
