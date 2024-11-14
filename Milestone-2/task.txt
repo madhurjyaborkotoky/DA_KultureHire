@@ -1,0 +1,18 @@
+What to do ?
+
+
+Think Data Variables
+
+Think and finalize the Data Variables that needs to be collected for this project. Think of every possible variable that is around your career and its aspirations. 
+
+Example: Gender of the person, Location of the person, Which Industry to work on, What is minimum salary expected etc etc.
+
+
+
+Method of Data Collection
+There are several methods of data collection, think which one will suit the best for this problem statement.
+
+
+User friendly Data Collection Questions
+
+Once you have finalized the method then frame questions about what kind of questions to ask and how user friendly the communication is for collecting data.
