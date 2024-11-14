@@ -1,0 +1,10 @@
+What to do?
+
+What dataset should I use to create the dashboard in Excel?
+
+Use the standardized dataset that you submitted in Milestone 3 to create a dashboard in Excel.
+
+
+Create an Executive Dashboard in Excel
+
+For this milestone you are supposed to create a executive dashboard for the Career Aspirations of Gen Z business questions in the next step.
