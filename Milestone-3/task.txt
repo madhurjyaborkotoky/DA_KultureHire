@@ -1,0 +1,11 @@
+What to do in this milestone ?
+
+
+Data Cleaning
+
+You will be cleaning the data and make it ready for analysis
+
+
+Data Standardization
+
+You will be standardizing the data and make it ready for analysis.
